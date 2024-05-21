@@ -2,7 +2,8 @@
 
 A simple game of battleships made using C++ and runs in a console window
 
-This project was complete in my first year of a software engineering degree and was the second project I ever created using C++
+This project was complete in my first year of a software engineering degree and was the second project I ever created using C++.
+It was my first introduction to using classes and OOP.
 
 ### Introduction
 Battleships is a strategy guessing game where you and the computer attempt
