@@ -25,12 +25,12 @@ If necessary, ships can be placed automatically for your ease.
 Below is a list of your ship types along with their size.
 
 <pre>
-Name                Size  
+Name                     Size  
 Aircraft Carrier   	  5  
 Battleship         	  4  
 Destroyer          	  3  
-Submarine	   	        3  
-Patrol Boat	   	      2  
+Submarine	   	  3  
+Patrol Boat	   	  2  
 </pre>
 
 Once placed on the game board, they are shown with a letter designation
