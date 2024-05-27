@@ -54,3 +54,6 @@ to the main menu to start your game.
 
 Debug mode will show the AI game boards, including where the AI ships have
 been automatically placed.
+  
+![battleship](https://github.com/OMaloso/Battleships/assets/88115296/52a73d2e-fcd5-4d7a-9aa2-d812e316c72d)
+
